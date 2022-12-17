@@ -2,3 +2,4 @@ about git
 git is a task
 learnt about git 
 git is quick acesses
+git is easy to work
